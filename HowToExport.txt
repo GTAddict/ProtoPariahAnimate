@@ -1,4 +1,5 @@
 Make sure to sync the whole project, including this folder. 7z command line tools is included in this folder, it is required to package the final build!
-Double-click the packageBuild.bat file. Done!
+Open up the Flash project and publish.
+Next, double-click the packageBuild.bat file. Done!
 
 Distribute the ProtoPariah.zip for smaller build sizes and ProtoPariahWithPSLevels.zip for users to see the behind-the-scenes of the levels (PSD files).
