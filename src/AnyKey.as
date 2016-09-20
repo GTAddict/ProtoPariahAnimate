@@ -1,4 +1,4 @@
-package 
+﻿package 
 {
 	import net.flashpunk.Entity;
 	import net.flashpunk.FP;
@@ -19,7 +19,6 @@ package
 		private var creditsImg:Image;
 		
 		// Press any key to continue
-		// NO, Now it's only the ENTER key.
 		public function AnyKey(detail:Array)
 		{
 			if (creditsPattern.exec(detail[0]))
