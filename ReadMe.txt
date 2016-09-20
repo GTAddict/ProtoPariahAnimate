@@ -10,3 +10,9 @@ Kory Lauver
 Melissa Almirall
 Michael Voguel
 
+To download the binaries, click below:
+Full game with PhotoShop level data for level creation:
+https://drive.google.com/file/d/0B_O3np4lhVcVSEFyM1N6aHpnUzA/view?usp=sharing
+
+Full game only:
+https://drive.google.com/file/d/0B_O3np4lhVcVNjNWWG1XbGQ0UjQ/view?usp=sharing
