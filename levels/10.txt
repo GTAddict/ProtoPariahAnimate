@@ -1,0 +1,12 @@
+Floor,0,0
+Wall,0,0
+Console.Down,806,237
+Keycard,1800,42
+Robot.ShortSquare,307,211
+Robot.ShortSquareBLSpawn,655,693
+Robot.ShortSquareBLSpawn,922,921
+Robot.ShortSquareTRSpawn,1800,657
+CameraBot.ShortHorizontal,1194,-4
+CameraBot.ShortHorizontal,612,156
+Player,96,69
+Door.Exit.Down,1761,1018

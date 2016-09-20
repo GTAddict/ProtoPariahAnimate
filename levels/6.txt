@@ -1,0 +1,11 @@
+Floor,0,0
+Wall,38,0
+Robot.MediumVerticalBotSpawn,1344,926
+Door.Exit.Left,128,608
+Player,128,64
+Robot.LongHorizontal,416,624
+Robot.MediumVerticalBotSpawn,644,286
+Robot.MediumVerticalBotSpawn,932,286
+Robot.MediumVerticalBotSpawn,1332,286
+Robot.LongSquare,993,672
+Robot.MediumVerticalTopSpawn,1440,62

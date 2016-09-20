@@ -1,0 +1,10 @@
+Layer 3,480,192
+blah,414,480
+Walls,380,156
+Keycard,556,275
+Robot.LongSquareBRSpawn,1248,768
+Robot.LongSquareBRSpawn copy,833,512
+Robot.LongSquare,513,192
+Robot.LongSquare copy 2,928,448
+Player,1327,491
+Door.Exit,1312,384

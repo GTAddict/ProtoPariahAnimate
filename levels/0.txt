@@ -1,0 +1,15 @@
+Floor,32,32
+Wall,0,0
+Player,242,754
+Terminal.Down,32,6
+Terminal.Down,1264,627
+Keycard,448,320
+Robot.ShortHorizontal,74,623
+Robot.LongHorizontal,472,723
+Robot.ShortHorizontal,74,377
+Robot.ShortSquareTRSpawn,1168,337
+Robot.ShortHorizontal,830,301
+CameraBot.ShortHorizontal,408,12
+CameraBot.ShortHorizontal,660,174
+CameraBot.ShortHorizontal,974,8
+Door.Exit.Left,1280,320

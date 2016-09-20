@@ -1,0 +1,23 @@
+Layer 28,35,17
+Layer 39 copy,227,209
+Walls,31,13
+Layer 32,635,337
+Layer 33,643,367
+Layer 37,328,471
+Layer 38,419,433
+LongVertical copy,963,337
+LongVertical,100,145
+LongVertical copy 4,1444,145
+LongHorizontal,163,49
+LongSquare,509,209
+Terminal.Down,1189,388
+Keycard,231,433
+Player,97,896
+Robot.LongVertical,100,145
+Robot.LongHorizontal,164,49
+CameraBot.LongSquare,516,209
+CameraBot.LongSquareBRSpawn,836,525
+Robot.LongVertical,1444,145
+Robot.LongVerticalRectangle,996,913
+Robot.LongVerticalRectangle copy,1633,752
+Door.Exit,931,401

@@ -1,0 +1,9 @@
+tiles,225,288
+carpet,256,482
+Wall,220,284
+Layer 1,259,510
+Layer 2,272,581
+Keycard,320,603
+Robot.FigureEight,1185,352
+Player,1520,581
+Door.Exit,1441,255

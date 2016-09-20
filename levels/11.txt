@@ -1,0 +1,15 @@
+Floor,115,38
+Wall,76,0
+Keycard,496,502
+Patrol Paths,133,69
+Robot.ShortSquare,563,673
+Robot.ShortSquareBLSpawn,1080,946
+Robot.LongHorizontal,116,172
+Robot.ShortHorizontal,115,307
+Robot.ShortSquareBLSpawn,1347,925
+Robot.ShortHorizontal,121,529
+Robot.ShortSquareTRSpawn,1690,268
+Robot.ShortHorizontal,1341,176
+Player,921,56
+Door.Exit.Right,1803,443
+Console.Down,321,22

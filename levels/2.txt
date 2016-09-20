@@ -1,0 +1,8 @@
+Floor,0,0
+Wall,0,0
+Robot.LongHorizontalRectangle,513,400
+Robot.LongHorizontal,480,80
+Robot.ShortSquareBLSpawn,1185,832
+Robot.MediumVerticalBotSpawn,1604,832
+Player,284,81
+Door.Exit.Up,1570,986

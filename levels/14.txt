@@ -1,0 +1,21 @@
+Layer 21,0,0
+Layer 22,672,704
+Layer 23,669,577
+Layer 19,448,-320
+Layer 26,928,736
+Layer 26 copy,928,608
+Layer 26 copy 2,928,480
+Layer 26 copy 3,928,352
+Layer 26 copy 4,928,224
+Layer 26 copy 5,896,224
+Layer 26 copy 6,896,352
+Layer 26 copy 7,896,480
+Layer 26 copy 8,896,608
+Layer 26 copy 9,896,736
+Layer 25 copy 4,928,256
+Walls,668,28
+Layer 24,709,575
+Layer 24 copy,709,477
+Layer 24 copy 2,710,387
+Player,924,687
+Keycard.Chip,931,259

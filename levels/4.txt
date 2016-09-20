@@ -1,0 +1,9 @@
+Floor,32,0
+Wall,32,0
+Door.Exit.Right,1856,32
+Robot.MediumVerticalBotSpawn,1192,734
+Robot.LongVertical,680,32
+Robot.LongHorizontal,640,272
+Robot.ShortHorizontal,1569,144
+Keycard,1728,256
+Player,87,913

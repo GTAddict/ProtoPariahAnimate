@@ -1,0 +1,21 @@
+How to - Create your own levels
+--------------------------------
+
+
+You need to have 3 files for a new level. One will be the background (non-collidable) layer, one will be the walls and collidable objects, but things that will not trigger events, and the last will be the layer that contains all individual elements. The first two files can have any image in them, they will be rendered in game. The third will be a txt file that will only contain position data.
+
+If you are making these in photoshop, the background layer group will be named Floor, the wall layer group Wall, and the rest should be in separate layers, not layer groups. The conventions that will be parsed are listed:
+
+(i)	Player 		- No additional arguments can be specified
+(ii)	Robot		- You can specify the patrol path and speed. For example, Robot.Omega.Fast or Robot.Slow.FigureEight. The valid parameters for speed are
+				- Slow, Medium and Fast
+			- The valid parameters for Patrol Paths are
+				- ShortHorizontal, ShortSquare, FigureEight, Serpentine, Omega, LongHorizontalRectangle, LongSquareBRSpawn, LongVerticalRectangle, FatL, LongHorizontal, LongVertical, LargeU, MediumVerticalBotSpawn, MediumVerticalTopSpawn, ShortSquareBLSpawn, ShortSquareTRSpawn, LongSquare
+(iii)	CameraBot	- The same parameters as Robot.
+(iv)	KeyCard		- You can specify whether this is a keycard or a chip. If it is a chip, mention KeyCard.Chip in the photoshop layer. Collecting a chip will automatically proceed to the next level without the player having to reach the exit.
+(v)	Door		- You can specify whether this is an entrance or exit door: Door.Exit or Door.Entrance. You can also specify its orientation: Door.Exit.Up, Door.Entrance.Down, Door.Left.Entrance, Door.Right.Exit
+(vi)	Terminal	- You can specify the orientation of your terminal with the same pattern as with door.
+(vii)	Closet		- The same as terminal.
+(viii)	AnyKey		- Dragging this will cause the game to end the level when any key is pressed. If AnyKey.Credits is set then the game will show the credits screen before ending the level.
+
+If you are using photoshop, you may use the script provided to automatically export position data. You may refer to the bundled photoshop files on how to make levels.

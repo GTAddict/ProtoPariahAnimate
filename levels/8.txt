@@ -1,0 +1,88 @@
+Floor_tiles_yellow,0,0
+Floor_carpet_purple,1216,384
+Floor_carpet_purple copy,1216,512
+Floor_carpet_purple copy 2,1088,384
+Floor_carpet_purple copy 3,1088,512
+Floor_carpet_purple copy 4,960,384
+Floor_carpet_purple copy 5,960,512
+Floor_carpet_purple copy 6,960,640
+Floor_carpet_purple copy 7,1216,640
+Floor_carpet_purple copy 8,1088,640
+Wall_horizontal,64,0
+Wall_horizontal copy,192,0
+Wall_horizontal copy 2,320,0
+Wall_horizontal copy 3,448,0
+Wall_horizontal copy 4,576,0
+Wall_horizontal copy 5,704,0
+Wall_horizontal copy 16,1728,760
+Wall_horizontal copy 17,1600,760
+Wall_horizontal copy 18,1472,760
+Wall_horizontal copy 19,1344,760
+Wall_horizontal copy 6,832,0
+Wall_horizontal copy 7,960,0
+Wall_horizontal copy 8,1088,0
+Wall_horizontal copy 9,1216,0
+Wall_horizontal copy 10,1344,0
+Wall_horizontal copy 11,1472,0
+Wall_horizontal copy 12,1600,0
+Wall_horizontal copy 13,1728,0
+Wall_horizontal copy 14,128,1016
+Wall_horizontal copy 14,256,1016
+Wall_horizontal copy 14,384,1016
+Wall_horizontal copy 14,512,1016
+Wall_horizontal copy 14,640,1016
+Wall_horizontal copy 14,768,1016
+Wall_horizontal copy 14,896,1016
+Wall_horizontal copy 14,1024,1016
+Wall_horizontal copy 14,1152,1016
+Wall_horizontal copy 15,0,1016
+Wall_horizontal copy 14,1280,1016
+Wall_horizontal copy 14,1408,1016
+Wall_horizontal copy 14,1536,1016
+Wall_horizontal copy 14,1664,1016
+Wall_horizontal copy 14,1792,1016
+Wall_horizontal copy 20,1280,320
+Wall_horizontal copy 21,1152,320
+Wall_horizontal copy 22,1024,320
+Wall_horizontal copy 23,896,320
+Wall_vertical,0,0
+Wall_vertical copy,0,128
+Wall_vertical copy 2,0,256
+Wall_vertical copy 9,1344,632
+Wall_vertical copy 10,1344,512
+Wall_vertical copy 11,1344,384
+Wall_vertical copy 3,0,384
+Wall_vertical copy 4,0,512
+Wall_vertical copy 5,0,640
+Wall_vertical copy 6,0,768
+Wall_vertical copy 7,0,896
+Wall_vertical copy 8,1856,0
+Wall_vertical copy 8,1856,128
+Wall_vertical copy 8,1856,256
+Wall_vertical copy 8,1856,384
+Wall_vertical copy 8,1856,512
+Wall_vertical copy 8,1856,640
+Wall_vertical copy 8,1856,768
+Wall_vertical copy 8,1856,896
+Cabinet_front,1221,339
+Desktop_back,1013,599
+Desktop_front,1024,659
+Wall_horizontal,512,320
+Wall_vertical,512,896
+Wall_vertical copy 12,512,768
+Wall_vertical copy 13,512,640
+Wall_vertical copy 14,512,512
+Wall_vertical copy 15,512,384
+Wall_vertical copy 16,224,64
+Wall_vertical copy 17,224,192
+Wall_vertical copy 18,224,320
+Wall_vertical copy 19,224,448
+Wall_vertical copy 20,224,576
+Keycard,64,52
+Player,1708,882
+Robot.LongSquare,1420,206
+Robot.ShortSquare,224,846
+Robot.ShortSquare copy,735,114
+Robot.Omega,1008,768
+Door.Exit.Down,1728,696
+Terminal,960,384

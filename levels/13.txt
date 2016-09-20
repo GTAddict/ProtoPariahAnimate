@@ -1,0 +1,30 @@
+Layer 19,96,32
+Layer 21 copy 12,416,192
+Walls,92,28
+Layer 22,472,517
+Layer 23,1304,357
+Layer 24,576,480
+Layer 25,440,485
+Layer 26,1448,432
+Layer 27,1360,423
+LongVertical,288,320
+LongVertical copy 2,737,64
+LongVertical copy 3,1121,64
+LongVertical copy,1569,319
+FigureEight,324,640
+FigureEight copy,1024,640
+LongHorizontal,352,224
+LongSquare,762,288
+Terminal.Down,912,370
+Keycard,484,421
+Keycard,1304,423
+Robot.FigureEight,1536,640
+Robot.FigureEight copy,837,640
+Robot.LongHorizontal,353,223
+CameraBot.LongSquare,768,256
+Robot.LongVertical,731,64
+Robot.LongVertical copy,1121,64
+CameraBot.LongVertical,1569,319
+Robot.LongVertical copy 3,289,320
+Player,143,879
+Door.Exit,896,128

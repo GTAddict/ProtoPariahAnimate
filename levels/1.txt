@@ -1,0 +1,27 @@
+Floor,64,-192
+Layer 1,912,604
+Layer 1 copy,911,476
+Layer 4,213,168
+Layer 4 copy,214,289
+Layer 4 copy 2,333,289
+Layer 4 copy 3,93,289
+Layer 4 copy 4,213,552
+Layer 4 copy 5,214,673
+Layer 4 copy 6,333,673
+Layer 4 copy 7,93,673
+Layer 4 copy 9,1664,680
+Layer 4 copy 9,1424,680
+W,273,229
+A,149,352
+S,279,350
+D,399,351
+Movement,185,483
+Layer 5,1564,354
+Layer 4 copy 8,1538,454
+Use Console,1464,608
+E,1601,514
+Wall,604,252
+Props,904,412
+Robot.Omega,1057,288
+Player,927,628
+Door.Exit,909,224
